@@ -8,3 +8,6 @@ var isProceeding = confirm("Do you want to proceed?");
     } else {
         // User clicked Cancel
         alert("You clicked Cancel. Exiting...");
+
+
+	}
